@@ -26,3 +26,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PinakiKundu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pinaki's GitHub Stats" />
 </a>  
 </p>
+
+<p align="center"> 
+<a href="http://www.github.com/Terrazure"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PinakiKundu&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
