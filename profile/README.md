@@ -20,6 +20,7 @@
 - ⚡ Fun fact : ...
 - 🥇 Accreditation : [Credly](https://www.credly.com/users/pinakikundu)
 - :octocat: [My Resume/CV](https://github.com/PinakiKundu/PinakiKUndu/blob/master/pinaki_resume.pdf)
+- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pinaki)
 
 <p align="center"> 
 <a href="https://github.com/Terrazure">
